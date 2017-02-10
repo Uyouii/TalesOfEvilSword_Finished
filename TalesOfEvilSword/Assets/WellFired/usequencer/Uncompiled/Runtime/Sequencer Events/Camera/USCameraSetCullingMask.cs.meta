@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e212c64ae669446bbbff611ffd51361b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - introCamera: {instanceID: 0}
+  - outroCamera: {instanceID: 0}
+  - renderMaterial: {fileID: 2100000, guid: f2b941ba4e1294313ab08370c0385403, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

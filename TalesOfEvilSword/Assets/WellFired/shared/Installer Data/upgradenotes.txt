@@ -1,0 +1,3 @@
+This is a beta version of uSequencer and a beta version of this Installer (actually the first version).
+
+There may be some issues with uSequencer, since we've done a LOT of work on ensuring memory allocations are non existant. This unfortunately means we're caching a lot more than we usually, we expect some knock ons, but nothing major.

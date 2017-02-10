@@ -1,0 +1,4 @@
+Added a new property Picker.
+Created a package Installer (you're using it just now).
+No more runtime memory allocations (we're aggresively caching everything).
+Fixed some bugs that were introduced with the introduction of Unity 5.0.
